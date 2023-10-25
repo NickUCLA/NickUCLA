@@ -35,7 +35,7 @@ I am a dedicated Full Stack Developer with a passion for crafting robust, scalab
 </div>
 
 <div style="margin-top: 20px; display: flex; align-items: center;">
-    <a href='https://github.com/kwestbrook17/Ocean-Invaders'><img width="195" height="200" src="./images/screenshotoceanInvaders.png"/></a>
+    <a href='https://github.com/kwestbrook17/Ocean-Invaders'><img width="250" height="250" src="./images/screenshotoceanInvaders.png"/></a>
     <div style="margin-left: 20px;">
         <p>
             Dive into nostalgia with Ocean Invaders, my first game crafted using Canvas and JavaScript at UCLA Coding Bootcamp. This retro recreation taught me crucial lessons in modular design and Canvas functionality, marking a significant milestone in my coding journey. 🎮✨
