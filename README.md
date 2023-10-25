@@ -54,4 +54,4 @@ I'm on the lookout for exciting opportunities to collaborate and contribute to p
 Feel free to reach out for collaborations, discussions, or if you just want to talk tech. 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-heal-8b7a7128b/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nheal179@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nheal179@gmail.com)
