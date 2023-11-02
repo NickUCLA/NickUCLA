@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Nick Heal
 
-I am a dedicated Full Stack Developer with a passion for crafting robust, scalable backend solutions and creating seamless, user-friendly experiences. My coding journey revolves around building interactive and dynamic web applications, ensuring each component works harmoniously to deliver a seamless experience.
+I'm a Full Stack Developer who enjoys the creativity of front end development and the logical puzzles of backend work. From crafting complex solutions to tackling challenging bugs, I have a deep appreciation for the intricacies of JavaScript. And while I love that technical side, I specialize in creating fun and user-friendly interfaces. My drive in coding is to ensure that every part of the web applications I build blends seamlessly, providing a smooth and cohesive experience for everyone.
 
 ## ⚡ Technologies
 
