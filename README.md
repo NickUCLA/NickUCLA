@@ -28,7 +28,7 @@ I'm a Full Stack Developer who enjoys the creativity of front end development an
 ## 🚧 Project Demos
 
 <div style="display: flex; align-items: center;">
-    <a href='https://github.com/kwestbrook17/GameGo'><img width="250" height="200" src="./images/ScreenshotGameGo.png"/></a>
+    <a href='https://github.com/kwestbrook17/GameGo'><img width="250" height="250" src="./images/ScreenshotGameGo.png"/></a>
     <div style="margin-left: 20px;">
         <p>         
 Welcome to GameGo  🛍️, your ultimate destination for retro gaming! Our ecommerce store is meticulously crafted to fulfill the desires of gamers seeking nostalgic experiences. Harnessing the cutting-edge capabilities of React and GraphQL, GameGo offers an exceptionally fluid navigation experience, paired with a visually stunning interface. Dive into a world where classic meets modern, and enjoy a seamless journey in rediscovering the golden era of gaming. 
