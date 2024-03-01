@@ -19,7 +19,7 @@ I'm a Full Stack Developer who enjoys the creativity of front end development an
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-## 👨‍💻 Elloe.AI Developer
+## 👨‍💻 Elloe AI Developer
 
 I've recently joined Elloe.AI as a Junior E-commerce Developer. Contributing to the development of a consulting services website, where I am actively involved in consuming endpoints. This crucial aspect of the project involves effective data integration and frontend development, ensuring the website delivers optimal functionality and a smooth user experience. 💼💻🔗
 
